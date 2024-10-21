@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Istenilen Classlari calistirma">
+    <test name="Login testleri">
+        <classes>
+            <class name="tests.US01.TC01_RegisterUser"></class>
+            <class name="tests.US01.TC03_PozitifLoginTesti"></class>
+            <class name="tests.US02.TC11_SepeteUrunEkleme"></class>
+            <class name="tests.US05.TC23_OdemeSonrasiFaturaIndirme"></class>
+        </classes>
+    </test>
+</suite>
