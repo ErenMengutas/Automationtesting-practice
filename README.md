@@ -7,7 +7,7 @@ Bu proje, [https://www.automationexercise.com](https://www.automationexercise.co
 - Java
 - Selenium WebDriver
 - Maven
-- JUnit (veya TestNG)
+- TestNG
 - IntelliJ IDEA
 
 ## Test Senaryoları
